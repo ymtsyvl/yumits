@@ -1,0 +1,104 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(50, 46, 46, 0.9);
+}
+
+li {
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.cover {
+  min-height: 620px;
+  background-image: url("http://i2.cdn.turner.com/cnnnext/dam/assets/151104102631-asia-instagram-chefs-laksa1-super-169.jpg");
+  background-size: cover; 
+  background-attachment: fixed;
+}
+
+.cover h1 {
+ color: white;
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+ margin: 350px;
+}
+
+.How_It_Works {
+  margin: 100px;
+}
+
+.How_It_Works h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.How_It_Works h1 p {
+  display: inline;
+}
+
+.How_It_Works img {
+  width: 150px;
+  height: 150px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.Intro {
+  min-height: 150px;
+  background-color: #DBDBDB;
+}
+
+.Intro p {
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+.Boxes {
+  min-height: 400px;
+  background-color: #DBDBDB;
+}
+
+.Boxes h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.Boxes img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.Boxes button {
+  margin-left: 115px;
+  border-radius: 7px;
+  font-size: 15px;
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Contact {
+  background-color: black;
+  color: white;
+  min-height: 300px;
+  font-family: 'Montserrat', sans-serif; ;
+}
+
+
+
+
+
